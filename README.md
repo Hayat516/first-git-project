@@ -1,2 +1,2 @@
 # Fit-Match
-A simple interactive JavaScript project demonstrating how callback functions work and simulate asynchronous behavio
+A simple interactive web app that helps users check if their outfit color combinations match. Select colors for shirts, trousers/skirts, and shoes, and the app tells you if they go well or suggests better combinations. Previous selections are saved in localStorage for easy reference. Built to practice JavaScript concepts like arrays, objects, map, filter, reduce, functions, callbacks, and DOM manipulation, while also improving Git workflow.
